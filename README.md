@@ -1,7 +1,8 @@
-# SHT40 & ESP32 Sensor Monitoring System
+# SHT40 & ESP32 Tempteraure and humidity to python server
 
 ## Overview
 
+Very easy, beginner friendly project. 
 This project demonstrates how to set up a real-time sensor monitoring system using an ESP32 microcontroller and the SHT40 temperature and humidity sensor. The system sends sensor data to a Python backend running on a server. The server then serves this data through an Nginx web server with basic authentication using a Pre-Shared Key (PSK). The data is displayed in real-time on a web page.
 
 ## Components
