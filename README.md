@@ -10,7 +10,7 @@ This project demonstrates how to set up a real-time sensor monitoring system usi
 - **ESP32**: Microcontroller used to read data from the SHT40 sensor and send it to the server.
 - **SHT40**: Sensor that measures temperature and humidity.
 - **Python Backend**: Handles data reception and provides an endpoint for data retrieval.
-- **Nginx**: Web server that serves the HTML page and provides basic authentication with a PSK.
+- **Nginx**: Web server that serves the HTML page.
 
 ## Hardware Connections
 
