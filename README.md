@@ -51,3 +51,4 @@ server {
 
 To open your server to internet use this guide by network chuck:
 https://www.youtube.com/watch?v=ey4u7OUAF3c
+Clouflare zerotrust application can be then used to limit access to web server displaying the data.
