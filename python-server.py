@@ -4,7 +4,6 @@ app = Flask(__name__)
 
 # Store the latest sensor data
 sensor_data = {"temperature": 0, "humidity": 0}
-psk = "your_hardcoded_psk"  # Replace with the same PSK used in Nginx
 
 @app.route('/sensor-data', methods=['GET', 'POST'])
 def handle_sensor_data():
